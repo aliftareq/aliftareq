@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development , BlockChain , machine Learning , Artificial Intelligence.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on Web Based Project.
-- 📫 reach me through aliftareq@gmail.com
+- 📫 reach me through alifhossen3721@gmail.com
 
 <!---
 aliftareq/aliftareq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
