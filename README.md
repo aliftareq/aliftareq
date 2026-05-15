@@ -40,7 +40,7 @@
 🏗️ **System Architecture** - Diving deep into distributed systems and microservices architecture  
 ⚙️ **DevOps Workflows** - Streamlining CI/CD pipelines and deployment automation  
 📚 **Core Programming Concepts** - Strengthening algorithmic thinking and design patterns  
-🛠️ **Developer Tools** - Building automation solutions like LazyCLI to boost productivity  
+🛠️ **Developer Tools** - Building automation solutions like N8N,Zapier to boost productivity  
 
 ## 💡 What Drives Me
 
@@ -56,9 +56,9 @@
 
 ## 🎨 Frontend Mastery
 Frontend Skills  
-Core Technologies: JavaScript (ES6+), TypeScript, React.js, Next.js, Redux Toolkit  
-Styling & UI: Tailwind CSS, Bootstrap, Styled Components, CSS3, HTML5  
-State Management: Redux, Context API  
+Core Technologies: JavaScript (ES6+), TypeScript, React.js, Next.js.  
+Styling & UI: Tailwind CSS, Bootstrap, Styled Components, CSS3, HTML5,Shadcn UI, Radix-UI  
+State Management: Redux Toolkit, Context API  
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/9fbf96e338e1b738a527aaa102eaf685b11949271ae60d890a1aef2e14246946/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c72656163742c72656475782c6e6578746a732c68746d6c2c6373732c7461696c77696e642c626f6f747374726170" alt="Frontend Skills" />
@@ -148,11 +148,7 @@ Dentcare is a cutting-edge AI-powered platform designed to facilitate dental car
 
 # 📈 GitHub Analytics
 
-GitHub Stats | Top Languages | GitHub Streak | Contribution Graph  
-
-📊 Quick Stats:  
-🔥 100+ Commits this year  
-🌟 90+ Repositories created   
+GitHub Stats | Top Languages | GitHub Streak | Contribution Graph   
 
 <!-- GitHub Streak -->
 <p align="center">
@@ -164,4 +160,42 @@ GitHub Stats | Top Languages | GitHub Streak | Contribution Graph
 <!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliftareq&theme=merko&hide_border=true" alt="Contribution Graph" />
+</p>
+
+📊 Quick Stats:  
+🔥 100+ Commits this year  
+🌟 90+ Repositories created  
+
+# 🌐 Connect & Collaborate
+
+<p align="center">
+  <a href="https://dev-alif.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/alif-tareq">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://app.daily.dev/aliftareq">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.TO" />
+  </a>
+  <a href="mailto:alifhossen3721@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+💬 Let's Connect!  
+🤝 Open to collaborations, mentoring, and exciting project opportunities  
+📧 Response Time: Usually within 24 hours  
+🌍 Timezone: GMT+6 (Dhaka, Bangladesh)  
+
+
+<!-- Typing Animation Footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Coding+isn't+merely+writing+code...;It's+an+emotion+that+requires+diving+deep;to+truly+understand+and+feel." alt="Typing Animation" />
+</p>
+
+<!-- Footer Gradient Animation -->
+<!-- Footer Gradient Animation with Full Width -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18,19&height=100&section=footer" alt="Footer Animation" width="100%" />
 </p>
