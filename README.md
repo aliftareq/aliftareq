@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Frontend-Driven+Software+Developer+%F0%9F%9A%80;Backend+Architecture+Enthusiast+%E2%9A%99%EF%B8%8F;DevOps+%26+System+Design+Explorer+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F;Building+LazyCLI+%26+Real-World+Solutions+%F0%9F%92%A1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend-Driven+Software+developer+%F0%9F%9A%80;Backend+Architecture+Enthusiast+%E2%9A%99%EF%B8%8F;DevOps+%26+System-Design+Explorer+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F;Build+Apps+and+Real-world+Solution+%F0%9F%92%A1" alt="Typing Animation" />
 </p>
 
 <!-- Philosophy Section with GIF on the right -->
@@ -13,9 +13,9 @@
 <tr>
 <td>
 
-👋 Frontend-Driven Software Developer with a deep passion for backend architecture and DevOps practices
+👋 Full-Stack Developer focused on modern web architecture and AI integration, experienced in migrating complex systems to relational databases and cloud infrastructure.
 
-🚀 **My Philosophy:** Solving complex problems with simple and effective solutions while understanding the deeper fundamentals of how systems operate at scale.
+🚀 **My Philosophy:** Bridge the gap between deep architectural fundamentals and intuitive full-stack execution to ensure technical simplicity and performance at any scale.
 
 </td>
 <td>
